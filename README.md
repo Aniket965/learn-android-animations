@@ -18,3 +18,7 @@ Learning Resources list for android animations
 >by [Android Developers](https://www.youtube.com/watch?v=imsr8NrIAMs)
 
 ----
+
+## Web Sites
+
+> [tutorialspoint](https://www.tutorialspoint.com/android/android_animations.htm)
